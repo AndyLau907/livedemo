@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+    <Option>
+        <TypeViewName>SUM</TypeViewName>
+        <TypeValue>SUM</TypeValue>
+    </Option>
+    <Option>
+        <TypeViewName>SUBTRACT</TypeViewName>
+        <TypeValue>SUBTRACT</TypeValue>
+    </Option>
+    <Option>
+        <TypeViewName>PRODUCT</TypeViewName>
+        <TypeValue>PRODUCT</TypeValue>
+    </Option>
+    <Option>
+        <TypeViewName>QUOTIENT</TypeViewName>
+        <TypeValue>QUOTIENT</TypeValue>
+    </Option>
+    <Option>
+        <TypeViewName>MOD</TypeViewName>
+        <TypeValue>MOD</TypeValue>
+    </Option>
+    <Option>
+        <TypeViewName>POWER</TypeViewName>
+        <TypeValue>POWER</TypeValue>
+    </Option>
+</root>

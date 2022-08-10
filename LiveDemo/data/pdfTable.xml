@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+    <Customer>
+        <Contact>Erica Norman</Contact>
+        <Company>Kauai Dive Shoppe</Company>
+        <City>Kapaa Kauai</City>
+        <Country>US</Country>
+        <Phone>808-555-0269</Phone>
+    </Customer>
+    <Customer>
+        <Contact>George Weathers</Contact>
+        <Company>Unisco</Company>
+        <City>Freeport</City>
+        <Country>Bahamas</Country>
+        <Phone>809-555-3915</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Phyllis Spooner</Contact>
+        <Company>Sight Diver</Company>
+        <City>Kato Paphos</City>
+        <Country>Cyprus</Country>
+        <Phone>357-6-876708</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Joe Bailey</Contact>
+        <Company>Cayman Divers World Unlimited</Company>
+        <City>Grand Cayman</City>
+        <Country>British West Indies</Country>
+        <Phone>011-5-697044</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Chris Thomas</Contact>
+        <Company>Tom Sawyer Diving Centre</Company>
+        <City>Christiansted</City>
+        <Country>US Virgin Islands</Country>
+        <Phone>504-798-3022</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Ernest Barratt</Contact>
+        <Company>Blue Jack Aqua Center</Company>
+        <City>Waipahu</City>
+        <Country>US</Country>
+        <Phone>401-609-7623</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Russell Christopher</Contact>
+        <Company>VIP Divers Club</Company>
+        <City>Christiansted</City>
+        <Country>US Virgin Islands</Country>
+        <Phone>809-453-5976</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Paul Gardner</Contact>
+        <Company>Ocean Paradise</Company>
+        <City>Kailua-Kona</City>
+        <Country>US</Country>
+        <Phone>808-555-8231</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Susan Wong</Contact>
+        <Company>Fantastique Aquatica</Company>
+        <City>Bogota</City>
+        <Country>Columbia</Country>
+        <Phone>057-1-773434</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Joyce Marsh</Contact>
+        <Company>Marmot Divers Club</Company>
+        <City>Kitchener</City>
+        <Country>Canada</Country>
+        <Phone>416-698-0399</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Sam Witherspoon</Contact>
+        <Company>The Depth Charge</Company>
+        <City>Marathon</City>
+        <Country>US</Country>
+        <Phone>800-555-3798</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Theresa Kunec</Contact>
+        <Company>Blue Sports</Company>
+        <City>Giribaldi</City>
+        <Country>US</Country>
+        <Phone>610-772-6704</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Donna Siaus</Contact>
+        <Company>Makai SCUBA Club</Company>
+        <City>Kailua-Kona</City>
+        <Country>US</Country>
+        <Phone>317-649-9098</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Michael Spurling</Contact>
+        <Company>Action Club</Company>
+        <City>Sarasota</City>
+        <Country>US</Country>
+        <Phone>813-870-0239</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Barbara Harvey</Contact>
+        <Company>Jamaica SCUBA Centre</Company>
+        <City>Negril</City>
+        <Country>West Indies</Country>
+        <Phone>011-3-697043</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Desmond Ortega</Contact>
+        <Company>Island Finders</Company>
+        <City>St Simons Isle</City>
+        <Country>US</Country>
+        <Phone>713-423-5675</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Gloria Gonzales</Contact>
+        <Company>Adventure Undersea</Company>
+        <City>Belize City</City>
+        <Country>Belize</Country>
+        <Phone>011-34-09054</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Harry Bathbone</Contact>
+        <Company>Blue Sports Club</Company>
+        <City>Largo</City>
+        <Country>US</Country>
+        <Phone>612-897-0342</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Lloyd Fellows</Contact>
+        <Company>Frank's Divers Supply</Company>
+        <City>Eugene</City>
+        <Country>US</Country>
+        <Phone>503-555-2778</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Tanya Wagner</Contact>
+        <Company>Davy Jones' Locker</Company>
+        <City>Vancouver</City>
+        <Country>Canada</Country>
+        <Phone>803-509-0112</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Robert Michelind</Contact>
+        <Company>SCUBA Heaven</Company>
+        <City>Nassau</City>
+        <Country>Bahamas</Country>
+        <Phone>011-32-09485</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Frank Paniagua</Contact>
+        <Company>Shangri-La Sports Center</Company>
+        <City>Freeport</City>
+        <Country>Bahamas</Country>
+        <Phone>011-32-08574</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Charles Lopez</Contact>
+        <Company>Divers of Corfu, Inc.</Company>
+        <City>Ayios Matthaios</City>
+        <Country>Greece</Country>
+        <Phone>30-661-88364</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Rudolph Claus</Contact>
+        <Company>Kirk Enterprises</Company>
+        <City>Houston</City>
+        <Country>US</Country>
+        <Phone>713-556-6437</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Bill Wyers</Contact>
+        <Company>George Bean Co.</Company>
+        <City>Lugoff</City>
+        <Country>US</Country>
+        <Phone>803-438-2771</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Shirley Mathers</Contact>
+        <Company>Professional Divers, Ltd.</Company>
+        <City>Hoover</City>
+        <Country>US</Country>
+        <Phone>205-555-8333</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Nancy Bean</Contact>
+        <Company>Divers of Blue-green</Company>
+        <City>Pelham</City>
+        <Country>US</Country>
+        <Phone>205-555-7184</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Elaine Falls</Contact>
+        <Company>Gold Coast Supply</Company>
+        <City>Mobile</City>
+        <Country>US</Country>
+        <Phone>205-555-2640</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Patricia O'Brien</Contact>
+        <Company>San Pablo Dive Center</Company>
+        <City>Santa Maria</City>
+        <Country>US</Country>
+        <Phone>823-044-2910</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Dave Walling</Contact>
+        <Company>Underwater Sports Co.</Company>
+        <City>San Jose</City>
+        <Country>US</Country>
+        <Phone>408-867-0594</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Lynn Cinciripini</Contact>
+        <Company>American SCUBA Supply</Company>
+        <City>Lomita</City>
+        <Country>US</Country>
+        <Phone>213-654-0092</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Nicole Dupont</Contact>
+        <Company>Catamaran Dive Club</Company>
+        <City>Catalina Island</City>
+        <Country>US</Country>
+        <Phone>213-223-0941</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Peter Owen</Contact>
+        <Company>Diver's Grotto</Company>
+        <City>Downey</City>
+        <Country>US</Country>
+        <Phone>213-432-0093</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Bethan Lewis</Contact>
+        <Company>Fisherman's Eye</Company>
+        <City>Grand Cayman</City>
+        <Country>British West Indies</Country>
+        <Phone>809-555-4680</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Marianne Miles</Contact>
+        <Company>Action Diver Supply</Company>
+        <City>St. Thomas</City>
+        <Country>US Virgin Islands</Country>
+        <Phone>22-44-500211</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Stephen Bryant</Contact>
+        <Company>Marina SCUBA Center</Company>
+        <City>Caracas</City>
+        <Country>Venezuela</Country>
+        <Phone>58-33-66222</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Christine Taylor</Contact>
+        <Company>Blue Glass Happiness</Company>
+        <City>Santa Monica</City>
+        <Country>US</Country>
+        <Phone>213-555-1984</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Simone Green</Contact>
+        <Company>Divers of Venice</Company>
+        <City>Venice</City>
+        <Country>US</Country>
+        <Phone>813-443-2356</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Bram Phillips</Contact>
+        <Company>On-Target SCUBA</Company>
+        <City>Winnipeg</City>
+        <Country>Canada</Country>
+        <Phone>416-445-0988</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Jonathan West</Contact>
+        <Company>Jamaica Sun, Inc.</Company>
+        <City>Runaway Bay</City>
+        <Country>West Indies</Country>
+        <Phone>809-555-2746</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Grant Ainsworth</Contact>
+        <Company>Underwater Fantasy</Company>
+        <City>Ocho Rios</City>
+        <Country>West Indies</Country>
+        <Phone>809-555-2214</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Anne Mariachi</Contact>
+        <Company>Princess Island SCUBA</Company>
+        <City>Taveuni</City>
+        <Country>Fiji</Country>
+        <Phone>679-311923</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Maria Eventosh</Contact>
+        <Company>Central Underwater Supplies</Company>
+        <City>Johannesburg</City>
+        <Country>Republic So. Africa</Country>
+        <Phone>27-11-4432458</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Anna Rack</Contact>
+        <Company>Safari Under the Sea</Company>
+        <City>Grand Cayman</City>
+        <Country>British West Indies</Country>
+        <Phone>809-409-4233</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Isabelle Neece</Contact>
+        <Company>Larry's Diving School</Company>
+        <City>Milwaukie</City>
+        <Country>US</Country>
+        <Phone>503-403-7777</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Kevin Rider</Contact>
+        <Company>Tora Tora Tora</Company>
+        <City>Nassau</City>
+        <Country>Bahamas</Country>
+        <Phone>809-898-0043</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Susan Smith</Contact>
+        <Company>Vashon Ventures</Company>
+        <City>Honolulu</City>
+        <Country>US</Country>
+        <Phone>532-099-0423</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Joe Hatter</Contact>
+        <Company>Divers-for-Hire</Company>
+        <City>Suva</City>
+        <Country>Fiji</Country>
+        <Phone>679-804576</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Paul Still</Contact>
+        <Company>Ocean Adventures</Company>
+        <City>Maui</City>
+        <Country>US</Country>
+        <Phone>776-868-9334</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Michael Grossman</Contact>
+        <Company>Underwater SCUBA Company</Company>
+        <City>Somerset</City>
+        <Country>Bermuda</Country>
+        <Phone>809-555-1225</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Gillian Owen</Contact>
+        <Company>Aquatic Drama</Company>
+        <City>Tampa</City>
+        <Country>US</Country>
+        <Phone>613-442-7654</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Brian Miles</Contact>
+        <Company>The Diving Company</Company>
+        <City>St. Thomas</City>
+        <Country>US Virgin Islands</Country>
+        <Phone>22-44-50098</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Angela Jones</Contact>
+        <Company>Norwest'er SCUBA Limited</Company>
+        <City>Paget</City>
+        <Country>Bermuda</Country>
+        <Phone>778-123-0745</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Richard Houser</Contact>
+        <Company>Waterspout SCUBA Center</Company>
+        <City>Portland</City>
+        <Country>US</Country>
+        <Phone>503-654-2434</Phone>
+    </Customer>
+    <Customer>
+        <Contact>Louise Franks</Contact>
+        <Company>Neptune's Trident Supply</Company>
+        <City>Negril</City>
+        <Country>West Indies</Country>
+        <Phone>778-897-3546</Phone>
+    </Customer>
+</root>
+

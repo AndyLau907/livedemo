@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+    <Option>
+        <TypeViewName>45</TypeViewName>
+        <TypeValue>45</TypeValue>
+    </Option>
+    <Option>
+        <TypeViewName>-45</TypeViewName>
+        <TypeValue>-45</TypeValue>
+    </Option>
+    <Option>
+        <TypeViewName>90</TypeViewName>
+        <TypeValue>90</TypeValue>
+    </Option>
+</root>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+    <Option>
+        <TypeViewName>AND</TypeViewName>
+        <TypeValue>AND</TypeValue>
+    </Option>
+    <Option>
+        <TypeViewName>OR</TypeViewName>
+        <TypeValue>OR</TypeValue>
+    </Option>
+    <Option>
+        <TypeViewName>NOT</TypeViewName>
+        <TypeValue>NOT</TypeValue>
+    </Option>
+</root>

@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+    <Option>
+        <TypeViewName>Aharoni</TypeViewName>
+        <TypeValue>Aharoni</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Andalus</TypeViewName>
+        <TypeValue>Andalus</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Angsana New</TypeViewName>
+        <TypeValue>Angsana New</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>AngsanaUPC</TypeViewName>
+        <TypeValue>AngsanaUPC</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Aparajita</TypeViewName>
+        <TypeValue>Aparajita</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Arabic Typesetting</TypeViewName>
+        <TypeValue>Arabic Typesetting</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Arial</TypeViewName>
+        <TypeValue>Arial</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Arial Black</TypeViewName>
+        <TypeValue>Arial Black</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Arial Unicode MS</TypeViewName>
+        <TypeValue>Arial Unicode MS</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Batang</TypeViewName>
+        <TypeValue>Batang</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>BatangChe</TypeViewName>
+        <TypeValue>BatangChe</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Browallia New</TypeViewName>
+        <TypeValue>Browallia New</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>BrowalliaUPC</TypeViewName>
+        <TypeValue>BrowalliaUPC</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Calibri</TypeViewName>
+        <TypeValue>Calibri</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Calibri Light</TypeViewName>
+        <TypeValue>Calibri Light</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Cambria</TypeViewName>
+        <TypeValue>Cambria</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Cambria Math</TypeViewName>
+        <TypeValue>Cambria Math</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Comic Sans MS</TypeViewName>
+        <TypeValue>Comic Sans MS</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Consolas</TypeViewName>
+        <TypeValue>Consolas</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Constantia</TypeViewName>
+        <TypeValue>Constantia</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Corbel</TypeViewName>
+        <TypeValue>Corbel</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Cordia New</TypeViewName>
+        <TypeValue>Cordia New</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>CordiaUPC</TypeViewName>
+        <TypeValue>CordiaUPC</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Courier New</TypeViewName>
+        <TypeValue>Courier New</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>DaunPenh</TypeViewName>
+        <TypeValue>DaunPenh</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>David</TypeViewName>
+        <TypeValue>David</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>DFKai-SB</TypeViewName>
+        <TypeValue>DFKai-SB</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>DilleniaUPC</TypeViewName>
+        <TypeValue>DilleniaUPC</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>DokChampa</TypeViewName>
+        <TypeValue>DokChampa</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Dotum</TypeViewName>
+        <TypeValue>Dotum</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>DotumChe</TypeViewName>
+        <TypeValue>DotumChe</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Ebrima</TypeViewName>
+        <TypeValue>Ebrima</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Estrangelo Edessa</TypeViewName>
+        <TypeValue>Estrangelo Edessa</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Euphemia</TypeViewName>
+        <TypeValue>Euphemia</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>FangSong</TypeViewName>
+        <TypeValue>FangSong</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Franklin Gothic Medium</TypeViewName>
+        <TypeValue>Franklin Gothic Medium</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>FrankRuehl</TypeViewName>
+        <TypeValue>FrankRuehl</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>FreesiaUPC</TypeViewName>
+        <TypeValue>FreesiaUPC</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Gabriola</TypeViewName>
+        <TypeValue>Gabriola</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Gautami</TypeViewName>
+        <TypeValue>Gautami</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Georgia</TypeViewName>
+        <TypeValue>Georgia</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Gisha</TypeViewName>
+        <TypeValue>Gisha</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Gulim</TypeViewName>
+        <TypeValue>Gulim</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>GulimChe</TypeViewName>
+        <TypeValue>GulimChe</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Gungsuh</TypeViewName>
+        <TypeValue>Gungsuh</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>GungsuhChe</TypeViewName>
+        <TypeValue>GungsuhChe</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Impact</TypeViewName>
+        <TypeValue>Impact</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>lrisUPC</TypeViewName>
+        <TypeValue>lrisUPC</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Iskoola Pota</TypeViewName>
+        <TypeValue>Iskoola Pota</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>JasmineUPC</TypeViewName>
+        <TypeValue>JasmineUPC</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>KaiTi</TypeViewName>
+        <TypeValue>KaiTi</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Kalinga</TypeViewName>
+        <TypeValue>Kalinga</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Kartika</TypeViewName>
+        <TypeValue>Kartika</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Khmer UI</TypeViewName>
+        <TypeValue>Khmer UI</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>KodchiangUPC</TypeViewName>
+        <TypeValue>KodchiangUPC</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Kokila</TypeViewName>
+        <TypeValue>Kokila</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Lao UI</TypeViewName>
+        <TypeValue>Lao UI</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Latha</TypeViewName>
+        <TypeValue>Latha</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Leelawadee</TypeViewName>
+        <TypeValue>Leelawadee</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>LilyUPC</TypeViewName>
+        <TypeValue>LilyUPC</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Lucida Console</TypeViewName>
+        <TypeValue>Lucida Console</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Lucida Sans Unicode</TypeViewName>
+        <TypeValue>Lucida Sans Unicode</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Malgun Gothic</TypeViewName>
+        <TypeValue>Malgun Gothic</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Mangal</TypeViewName>
+        <TypeValue>Mangal</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Marlett</TypeViewName>
+        <TypeValue>Marlett</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Meiryo</TypeViewName>
+        <TypeValue>Meiryo</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Meiryo UI</TypeViewName>
+        <TypeValue>Meiryo UI</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Microsoft Himalaya</TypeViewName>
+        <TypeValue>Microsoft Himalaya</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Microsoft JhengHei</TypeViewName>
+        <TypeValue>Microsoft JhengHei</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Microsoft New Tai Lue</TypeViewName>
+        <TypeValue>Microsoft New Tai Lue</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Microsoft PhagsPa</TypeViewName>
+        <TypeValue>Microsoft PhagsPa</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Microsoft Sans Serif</TypeViewName>
+        <TypeValue>Microsoft Sans Serif</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Microsoft Tai Le</TypeViewName>
+        <TypeValue>Microsoft Tai Le</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Microsoft Uighur</TypeViewName>
+        <TypeValue>Microsoft Uighur</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Microsoft YaHei</TypeViewName>
+        <TypeValue>Microsoft YaHei</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Microsoft Yi Baiti</TypeViewName>
+        <TypeValue>Microsoft Yi Baiti</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>MingLiU</TypeViewName>
+        <TypeValue>MingLiU</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>MingLiU-ExtB</TypeViewName>
+        <TypeValue>MingLiU-ExtB</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>MingLiU_HKSCS</TypeViewName>
+        <TypeValue>MingLiU_HKSCS</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>MingLiU_HKSCS-ExtB</TypeViewName>
+        <TypeValue>MingLiU_HKSCS-ExtB</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Miriam</TypeViewName>
+        <TypeValue>Miriam</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Miriam Fixed</TypeViewName>
+        <TypeValue>Miriam Fixed</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Mongolian Baiti</TypeViewName>
+        <TypeValue>Mongolian Baiti</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>MoolBoran</TypeViewName>
+        <TypeValue>MoolBoran</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>MS Gothic</TypeViewName>
+        <TypeValue>MS Gothic</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>MS Mincho</TypeViewName>
+        <TypeValue>MS Mincho</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>MS PGothic</TypeViewName>
+        <TypeValue>MS PGothic</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>MS PMincho</TypeViewName>
+        <TypeValue>MS PMincho</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>MS UI Gothic</TypeViewName>
+        <TypeValue>MS UI Gothic</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>MV Boli</TypeViewName>
+        <TypeValue>MV Boli</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Narkisim</TypeViewName>
+        <TypeValue>Narkisim</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>NSimSun</TypeViewName>
+        <TypeValue>NSimSun</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Nyala</TypeViewName>
+        <TypeValue>Nyala</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Palatino Linotype</TypeViewName>
+        <TypeValue>Palatino Linotype</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Plantagenet Cherokee</TypeViewName>
+        <TypeValue>Plantagenet Cherokee</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>PMingLiU</TypeViewName>
+        <TypeValue>PMingLiU</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>PMingLiU-ExtB</TypeViewName>
+        <TypeValue>PMingLiU-ExtB</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Raavi</TypeViewName>
+        <TypeValue>Raavi</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Rod</TypeViewName>
+        <TypeValue>Rod</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Sakkal Majalla</TypeViewName>
+        <TypeValue>Sakkal Majalla</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Segoe Print</TypeViewName>
+        <TypeValue>Segoe Print</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Segoe Script</TypeViewName>
+        <TypeValue>Segoe Script</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Segoe UI</TypeViewName>
+        <TypeValue>Segoe UI</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Segoe UI Light</TypeViewName>
+        <TypeValue>Segoe UI Light</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Segoe UI Semibold</TypeViewName>
+        <TypeValue>Segoe UI Semibold</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Segoe UI Symbol</TypeViewName>
+        <TypeValue>Segoe UI Symbol</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Shonar Bangla</TypeViewName>
+        <TypeValue>Shonar Bangla</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Shruti</TypeViewName>
+        <TypeValue>Shruti</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>SimHei</TypeViewName>
+        <TypeValue>SimHei</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Simplified Arabic</TypeViewName>
+        <TypeValue>Simplified Arabic</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Simplified Arabic Fixed</TypeViewName>
+        <TypeValue>Simplified Arabic Fixed</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>SimSun</TypeViewName>
+        <TypeValue>SimSun</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>SimSun-ExtB</TypeViewName>
+        <TypeValue>SimSun-ExtB</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Sylfaen</TypeViewName>
+        <TypeValue>Sylfaen</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Symbol</TypeViewName>
+        <TypeValue>Symbol</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Tahoma</TypeViewName>
+        <TypeValue>Tahoma</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Times New Roman</TypeViewName>
+        <TypeValue>Times New Roman</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Traditional Arabic</TypeViewName>
+        <TypeValue>Traditional Arabic</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Trebuchet MS</TypeViewName>
+        <TypeValue>Trebuchet MS</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Tunga</TypeViewName>
+        <TypeValue>Tunga</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Utsaah</TypeViewName>
+        <TypeValue>Utsaah</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Vani</TypeViewName>
+        <TypeValue>Vani</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Verdana</TypeViewName>
+        <TypeValue>Verdana</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Vijaya</TypeViewName>
+        <TypeValue>Vijaya</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Vrinda</TypeViewName>
+        <TypeValue>Vrinda</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Webdings</TypeViewName>
+        <TypeValue>Webdings</TypeValue>
+    </Option>
+
+    <Option>
+        <TypeViewName>Wingdings</TypeViewName>
+        <TypeValue>Wingdings</TypeValue>
+    </Option>
+
+</root>
+

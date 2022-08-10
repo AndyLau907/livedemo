@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+    <Option>
+        <TypeViewName>Excel 97to2003 Workbook</TypeViewName>
+        <TypeValue>Excel 97to2003 Workbook</TypeValue>
+    </Option>
+    <Option>
+        <TypeViewName>Excel 2007 Workbook</TypeViewName>
+        <TypeValue>Excel 2007 Workbook</TypeValue>
+    </Option>
+    <Option>
+        <TypeViewName>Excel 2010 Workbook</TypeViewName>
+        <TypeValue>Excel 2010 Workbook</TypeValue>
+    </Option>
+    <Option>
+        <TypeViewName>Excel 2007 Binary Workbook</TypeViewName>
+        <TypeValue>Excel 2007 Binary Workbook</TypeValue>
+    </Option>
+    <Option>
+        <TypeViewName>Excel 2010 Binary Workbook</TypeViewName>
+        <TypeValue>Excel 2010 Binary Workbook</TypeValue>
+    </Option>
+    <Option>
+        <TypeViewName>Excel 2013 Workbook</TypeViewName>
+        <TypeValue>Excel 2013 Workbook</TypeValue>
+    </Option>
+    <Option>
+        <TypeViewName>Excel 2016 Workbook</TypeViewName>
+        <TypeValue>Excel 2016 Workbook</TypeValue>
+    </Option>
+</root>

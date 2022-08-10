@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+    <Option>
+        <TypeViewName>ABS</TypeViewName>
+        <TypeValue>ABS</TypeValue>
+    </Option>
+    <Option>
+        <TypeViewName>SIN</TypeViewName>
+        <TypeValue>SIN</TypeValue>
+    </Option>
+    <Option>
+        <TypeViewName>COS</TypeViewName>
+        <TypeValue>COS</TypeValue>
+    </Option>
+    <Option>
+        <TypeViewName>TAN</TypeViewName>
+        <TypeValue>TAN</TypeValue>
+    </Option>
+</root>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+    <Option>
+        <TypeViewName>Sales</TypeViewName>
+        <TypeValue>Sales</TypeValue>
+    </Option>
+    <Option>
+        <TypeViewName>OnHand</TypeViewName>
+        <TypeValue>OnHand</TypeValue>
+    </Option>
+    <Option>
+        <TypeViewName>OnOrder</TypeViewName>
+        <TypeValue>OnOrder</TypeValue>
+    </Option>
+    <Option>
+        <TypeViewName>Area</TypeViewName>
+        <TypeValue>Area</TypeValue>
+    </Option>
+    <Option>
+        <TypeViewName>Population</TypeViewName>
+        <TypeValue>Population</TypeValue>
+    </Option>
+</root>

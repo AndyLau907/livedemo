@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+    <Option>
+        <TypeViewName>PDF</TypeViewName>
+        <TypeValue>PDF</TypeValue>
+    </Option>
+    <Option>
+        <TypeViewName>HTML</TypeViewName>
+        <TypeValue>HTML</TypeValue>
+    </Option>
+    <Option>
+        <TypeViewName>IMAGE</TypeViewName>
+        <TypeValue>IMAGE</TypeValue>
+    </Option>
+    <Option>
+        <TypeViewName>TIFF</TypeViewName>
+        <TypeValue>TIFF</TypeValue>
+    </Option>
+    <Option>
+        <TypeViewName>XPS</TypeViewName>
+        <TypeValue>XPS</TypeValue>
+    </Option>
+
+</root>

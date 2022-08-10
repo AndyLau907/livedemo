@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+    <Option>
+        <TypeViewName>Left</TypeViewName>
+        <TypeValue>Left</TypeValue>
+    </Option>
+    <Option>
+        <TypeViewName>Right</TypeViewName>
+        <TypeValue>Right</TypeValue>
+    </Option>
+    <Option>
+        <TypeViewName>Center</TypeViewName>
+        <TypeValue>Center</TypeValue>
+    </Option>
+    <Option>
+        <TypeViewName>Distribute</TypeViewName>
+        <TypeValue>Distribute</TypeValue>
+    </Option>
+    <Option>
+        <TypeViewName>HightKashida</TypeViewName>
+        <TypeValue>HightKashida</TypeValue>
+    </Option>
+    <Option>
+        <TypeViewName>Justify</TypeViewName>
+        <TypeValue>Justify</TypeValue>
+    </Option>
+    <Option>
+        <TypeViewName>LowKashida</TypeViewName>
+        <TypeValue>LowKashida</TypeValue>
+    </Option>
+    <Option>
+        <TypeViewName>MediumKashida</TypeViewName>
+        <TypeValue>MediumKashida</TypeValue>
+    </Option>
+</root>
+

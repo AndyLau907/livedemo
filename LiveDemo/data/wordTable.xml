@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+    <country>
+        <Name>Argentina</Name>
+        <Capital>Buenos Aires</Capital>
+        <Continent>South America</Continent>
+        <Area>2777815</Area>
+        <Population>32300003</Population>
+        <Flag>iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAGMSURBVHjaYow8/v/LHwYI+Mfw7xcQ/2EACvz68+/Pv38//gBFQAjE+POPjYkBIIBYPv1hSFWEqP7//z/jv/9ABsO/f////mf8+4/5LwPT33//wVwQyj32BSCAWH78Yfj9j+H97/8gpf8ZQBJAS/7///MPjEBcKFuYnZHh1z+AAGKpl32jKSYM1PMfaMt/kDYgBBoJAmA+hAkkWRkZRLXfAAQQizrvP2E2BrBisFog/X3v3y+bgYYycXv+53D7DwOMjAxmwgwAAcQE8S5UDEL/2PPv3/3/f+/9/7b9PzIA+e0fQACxIKtmgOhgs2P48QYYTv85nJHVMwId9u8fQACxXPv4T4v3/6+/IB0w57r+53L5B5L+/+8rVPW/fwxsLP+PvvkLEEAsWbeFSpkZXn4HhgMDPED+wkPpHzSUgEEnwcnQeUQQIIBYmP79Y2RgEmWHBuhfYMiCdDICGX9A4Qt0NwM4TkB+APoCIIAYjbd+ffcLGpE/QAio+h9ILSjOwegPGAHjExj/bAwAAQYA9gFw522GQWAAAAAASUVORK5CYII=</Flag>
+    </country>
+    <country>
+        <Name>Bolivia</Name>
+        <Capital>La Paz</Capital>
+        <Continent>South America</Continent>
+        <Area>1098575</Area>
+        <Population>7300000</Population>
+        <Flag>iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAGGSURBVHjaYvwvyswAA//+/GX4BaQYGH4w/PsPojERQAAO5RwHABCGgWA43o4oEW+lS2wTaEZbbH/j3ImoQhgp0IDsBtRwBYT4+hnrCiCwhv8M/9+8AioCqf7zhwEq/fc/SPUfEPkbyPjNKCYBtAEggFi+RfxlU/31TxzoiD///4HV/fv9/x9Y29/fYPTnH5jBxPftkzwDQACxfEli4JX+8ff31////zD8B6r+8/8/UMNvoF0wxm+wEb+YWHk/tDAABBAL0CMgg0HSfxhAjN//gNJQRX/+MfwCM4CCf5iA3H8MAAHEArT8P8NvsGoQ+Q9mA9RsiCVgzf+BrvzDABBALGv+MNgCHfTn5z+wCiD5F8L4D2aAuUDVwBDgYf4x8wcDQACx5H5iyP/99cGvT7///f7z7w+Q/PXvFyhcIAyI4H8g+VeJ4evRTwwAAcTC8IcBKCTBIgEKP6BJ//78YvgFFIEgSND+/fcXFHwMf4GKAQKIkWEjOAL/ICEI9xcsbiGCDFASIMAArSN8tzlGFIEAAAAASUVORK5CYII=</Flag>
+    </country>
+    <country>
+        <Name>Brazil</Name>
+        <Capital>Brasilia</Capital>
+        <Continent>South America</Continent>
+        <Area>8511196</Area>
+        <Population>150400000</Population>
+        <Flag>iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAHjSURBVHjaYmRIZkCAfwwMf2DkLzCCMyDoBwNAALEAlTVGN/5nYPj//x8Q/P3/9++/vzZa31gY/mw5z/Tn3x8g98+f37///fn99/eq2lUAAQTS8J/h/7NPz/9C5P79WRj89f9/zv//fztLvPVezPzrz+8/f3//+vtLhl8GaANAAIE1/P8PVA1U6qn7NVTqb1XVpAv/JH7/+a/848XmtpBlj39PO8gM1PP7z2+gqwACiAnoYpC9TF9nB34NVf5z4XpoZJbEjJKfWaEfL7KLlbaURKj8Opj08RfIVb+BNgAEEBPQW1L8P+b6/mb6//s/w+/+nc4F0/9P2cj65xdHc+p/QR39//9/AdHJ9A/60l8YvjIABBAT0JYH75jStv75zwCSMBY8BXTMxXv/21ezfHj9X5/3BESDy5JfBy7/ZuBnAAggkA1//vx594kpaCnLloe/smLaVT9/ff3y/+/P/w+u/+JuW7fhwS/tSayPXrOycrEyfGQACCAWoA1//oOCDIgm72fu4vy6b4LD/9/S/3///s9+S28yy+9/LEAf//kLChVgCAEEEEjD7z9/JHgkQeHwD8gUjV79O9r6CzPLv6lr1OUFwWH9Fxjcv//9BcYoA0AAMTI4ImIROUYRMf2XARkABBgA8kMvQf3q+24AAAAASUVORK5CYII=</Flag>
+    </country>
+    <country>
+        <Name>Canada</Name>
+        <Capital>Ottawa</Capital>
+        <Continent>North America</Continent>
+        <Area>9976147</Area>
+        <Population>26500000</Population>
+        <Flag>iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAIGSURBVHjaYvzoHfzvwwcmFqYfr55wnz7NgAT+//8PJH/9+vVMWJgNyGBg+MPAABBALP8ePeEsLwRKMH9+x8XF9R8Mfn38yPiPgVmA7/+/f6wsrKJZWSzsPP/+/r0/qRcggFgYeDiAZv178/bvu1cQ1X/+/f8ybfq/H3+5q0qYGRlB+m/f/scpwCQlAbQEIIBYGIDyf//9//2H4c8foNzPK9d//vvF/OARw68fX0+fYfn7l93MlOH797+MHP9//gI6CSCAWP79+sXw9+//37////wJ1PBlxkwWHi5Gbv7/rBx/Fy7+/PiB2Nq1/77/ZGD8zvjrJ1ADQACxMPz48e/3n3+/f//79RvkS2X5/+fO/WflYfzyg+njM2Z1jX///v35+Z2JhROoAOgkgABi+vPjx/8/v4E2/Pv5A6iBJynpm7AI0NO/f3/5IiTGX14OFPwNVPPz199fICcBBBDLvy9fwKp/gtC/fwwcHPwNDd/37GJk5xAyN2fk4PgLdPDPn39ZfzH8BnqUASCAWP68fQr2wK9/QLf9+wc0j5GNlcHUhImNg4GdHagaKPjvx/d/bD+Z/vwBOgkggFiAmv79/M0oJMD09zsjOBCBccIuJAJk/WNgYGJiAgqyKioxC4iBvMrAABBAjLeBGsBR+ImBgffKlR8/fsAjGML4/fv3I0dHNrAyIAAIMAAWsTLdMXjAtwAAAABJRU5ErkJggg==</Flag>
+    </country>
+    <country>
+        <Name>Chile</Name>
+        <Capital>Santiago</Capital>
+        <Continent>South America</Continent>
+        <Area>756943</Area>
+        <Population>13200000</Population>
+        <Flag>iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAFUSURBVHjaYmRIP87w7Q/DHwYGJgaGH/8YuJj+LrBiYGD4hxUwMAAEEAvDlz/VUYrxZsILTr/7+/svHyczAwMjA8N/RkZGZmZmJiam/0jgy5cvAAHExPCPIcVChOE/Q5yJ0KO3P59++AlUDQEYpoOsBQggoDsYll149/f//503P/z+8//PX4b/uAFQA0AAsTBwCHz8w9q47/2f/wx/2Dn+/P2FSzUDGAAEEAvDvTtMnziZP/749/c/079/v/g4/3///p+BAdlYqAYmpn9v3gAEEONfoK78/P8PHvz//YsB6Kbfv4GM/79+///1C8RGIpmUlN6fOgUQQCxAvzCChRj+/EFRhKoaJPvnDzDwAQIIpIH5D8hgBrgiTG1/gBr+MvwFuQYggEAamH7/YZCUBBvzl+EPSCcj2EgGCAlEf/9CEFAxQAAxfgWGLhJiQOWiSQEBQIABAIaNaAY5Pzm9AAAAAElFTkSuQmCC</Flag>
+    </country>
+    <country>
+        <Name>Colombia</Name>
+        <Capital>Bagota</Capital>
+        <Continent>South America</Continent>
+        <Area>1138907</Area>
+        <Population>33000000</Population>
+        <Flag>iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAF1SURBVHjaYny/neHfPwYo+Adig7gQxh8MxMAAEEAsQAkh/Wqg4v9A7n8g+vuf4S9Q8v9/kJL/DL//A8l/v4Hc//9/39uyCSCAWMAmA9lPgUoZ/v0FskB6QCp+w8hfYPSbkV0WaAlAALGAzf6PqvoXyLx/YKX/f8EYvxn+/f7ziwEggFgY/gC1/GVg+POf8Q+IBLqBEWwwiAHWAGQwgDUwAPUwAAQQI4Pg8dIOhYcvf/35+//3H6Ah/8EIxPj1G0j++wVh//mrKMF+aNJJgABiYfjB8OcPEAGF/sPIf79+Q7QB9fz/hWQQMPgAAgik4edvhu+/GP78Zvj9h+EXGP0GawAxIFyQiYy/foHCByCAWK7/txS7kfP73v3/v3+BTf79DygDJIFcoD6ws0CCf/+wKSufZzgFEEAsbAwMzH9+MEmKgB30C0SCpIHu+A1hAw3/9/ff/79//v/9wcPAABBAjHcZwOHEwPALFL8g9AeJRENAABBgALCAa8EvfPnLAAAAAElFTkSuQmCC</Flag>
+    </country>
+    <country>
+        <Name>Cuba</Name>
+        <Capital>Havana</Capital>
+        <Continent>North America</Continent>
+        <Area>114524</Area>
+        <Population>10600000</Population>
+        <Flag>iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAHFSURBVHjaYrzNwKDquJyBjYfhxzeGfwwMf/4w/PnH8AuI/sBIMPoBRL8Y2NgAAohFhYHhk831pRr+H7iF/v/7/+/f/z8Q8u8/IOPPn39///37/ef/73//gCLzc/YABBDjZwYG7uqqT8+e8yUl/LawYWD4D9T2/z8DFIOpf2CakZHx/cePAAHEAnTF73//OX///jx9Bs/Xrwyu7v8ZGaAKYYgJTDIyMrAxMQAEEONHBgb29nZmM7Pfs2f//P5jH5/WdvMwoON///kHcgaQ/AslpQQ5lhRuBQggkA0srq4MurrMv/+wTppk9/LMp11f56gF/f4FhH9//fn7+/e/X0ANf/79lOBiYLgHEEAgDX927GD69On31Mk/f//ay6uz2ypa/B8DxFQQ+gOyAehjCREOBgYZgABifMvAwJWV9f/+/e9//vAmxP0PCfuPDTAwAP3A+ObNG4AAAjvpz58Pf/5wZaT/9vL9/+f/f2iogEhg+ILDiwESSt9+/AEIIBYeBoaPf/+3RfT9esvwZ+FNiO3AGPgNYfwFxcPfv////vv/9z/DvuY5AAHEeJqBwVR0JjRSgdH5/w/QUzD0C0z+A5MMYJIJIMAA5qlT7L92ZXAAAAAASUVORK5CYII=</Flag>
+    </country>
+    <country>
+        <Name>Ecuador</Name>
+        <Capital>Quito</Capital>
+        <Continent>South America</Continent>
+        <Area>455502</Area>
+        <Population>10600000</Population>
+        <Flag>iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAGGSURBVHjaYvx5U53h3ycGCPgHBL8Y/v35x/ALyPj35/+/f0BBoDBQDEQCAUAAsTD8e8cs1gJW/pfh/3+m/0Dy3///fyGI4f+f////gMh/QME/H250AwQQCwMDEP1n+PMapgIkAUL/wEqBJMPv//+A6A8jqzjQeoAAAtoAcgpW1SB1ION/g7m/gZqBbgUIIBYWrk+MzD8Z/v+AOwCGoOogxgMZjCzfOLgYAAKIRaSkri3R+tX7L3/+/v/77++fv//A6O/vPyD2779/gRTQ5N9//0kI80zJfQwQQCzvb0k9/cD3+A3Lb5A0yNbff/79AqsA6vn95z9M8O/nv1wMDEoAAcTC8OMf2CSQut9/4Iy/EMavP///QKz68+/vX1AYAwQQ43kGBqmiol8PHvz//fvf799Q8tcvIAk2GSTy/w8Q/WVVUjp78CBAALEoMDBwfP3AIMgNEgUZC1LBAGL/AYn8BVkBVM3w9+//L291GBgAAojxIQPDH1BsoqA/SAwGJAYTAwNAgAEA/GyBI0uDlLwAAAAASUVORK5CYII=</Flag>
+    </country>
+    <country>
+        <Name>El Salvador</Name>
+        <Capital>San Salvador</Capital>
+        <Continent>North America</Continent>
+        <Area>20865</Area>
+        <Population>5300000</Population>
+        <Flag>iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAGHSURBVHjaYmTQv87wiwEK/v1j+PWP4c8/kAiQ8esPiPz9DyjBwPAHQgIEEAtQrr9aDKIYjP79+cvw99//v//+/f3L8OfP/z9////58w/CmFF3HSCAWIBK/v5jePHmzz+gor9g6b8gxu8/IHVAEoz+/f79T1KUFWgvQAAx7j/9VVmW7devf///M/z///8fBAF1/wNyGUA0EIEF2NmYDp18BRBAjH///mVkZAQ66T9IBwNY1/93t+u+/mOXUqn4jwSAyj59+gQQQCwQ30KEIIyz17+fvPsa6AqT719MtbngGhgYGYEWAQQQC1w13HxDdbZPv23//vtrqs2JYgPYqQABxLj7+EdVOfYfv0CuBPkB7Og/oEACmgTyA8QHQJqDnXn30WcAAcTIwH66qkv20YtfsDD59+sPOJR+A0PmLySU/vwFhvV/BUm27TNPAQQQC9gQBklRFqDE3z//wKH+/zdIBTDsmf/+hYY1KND/gWILIIAYGZiPMvxlgEckjPwDY/9DYoB0AAQYAKRYbE3/GAjBAAAAAElFTkSuQmCC</Flag>
+    </country>
+    <country>
+        <Name>Guyana</Name>
+        <Capital>Georgetown</Capital>
+        <Continent>South America</Continent>
+        <Area>214969</Area>
+        <Population>800000</Population>
+        <Flag>iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAIXSURBVHjaYrS0lGXI07rDcuX1vacM3xgY/jGAwB8k9AtG/gLJAAQAMQDO/wHTAADukZIMRCEgJCrt+Puw3rnm9eT9/Pj8APz8//z8//v7/fz8/vv7/vz7/fuyl7ICADEAzv8ELAAA/eroxYvNw0EEQVUaci5Q6vYH5PX2k9Oe5fPh+/v3+gH6+v76+/77HQwdAPoAAgAxAM7/A4AAAAE8PB/w8ATb+rzO6fsXwSQbxBgJ5UkdW0EaQ/b9/uv49u/37vv6+Q0GDd7I3gKI8S9QQ1kZw6NHQPu///6zj+H3UcXfRVW/Bfh////P+f9/1s8/go+/MM67ueLJlzer+1cDBBBYQ1Hx/4cPgBoYfgOd/bvy1y9+59+Fxb+ZGX/9/w/UBiTF//+f+/UPt0SHDEAAsQA9/v8vxHu/fv/+0/z7t5b3L5cIiGq2//9Lf/0VfvaVZd6N/gdfXjEcYQAIADEAzv8E/gAAAfv7//r63vz8kgn6T3v7PjgC//8o+/5h5vUDotm2v+XO2/DX/Pr0IxIiAPQAAgikgenPn/2/f2+W+1vdJSfEk/jqG9f9z9+az0669f7qr59ffjP8ArmV+e8fhr/AWAIIIJYrDAwvBIVv+IhXp4S+/Par++Sa2x/v/vr18R/DH3k+iT//QLHxFwj+//377y8wWAECiFGUk+H1DwaGSQwM5xgY3iDF9C/UmP4HJnkYAAIMAO8HNiEGagofAAAAAElFTkSuQmCC</Flag>
+    </country>
+</root>
+
